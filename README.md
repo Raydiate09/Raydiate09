@@ -9,6 +9,9 @@ Building at the intersection of multilingual AI and production systems.
 **MemeXGen** — Multimodal LLM framework for cross-cultural meme transcreation
 - Dataset published on Hugging Face — **20,000+ downloads in the first month**
 - Multimodal multi-agent system (cultural context · style · safety) with 15–20% improvement over GPT-4V and CLIP baselines across Chinese–English evaluation sets
+- 
+- [arXiv paper](https://arxiv.org/)
+- [Hugging Face dataset](https://huggingface.co/datasets/AIM-SCU/MemeXGen/)
 
 ---
 
@@ -34,8 +37,6 @@ Cloud       AWS (Lambda · DynamoDB · SQS · Bedrock) · Docker · GitHub Actio
 
 ### Links
 
-- [arXiv paper](https://arxiv.org/)
-- [Hugging Face dataset](https://huggingface.co/datasets/AIM-SCU/MemeXGen)
 - [LinkedIn](https://linkedin.com/in/)
 
 ---
