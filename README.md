@@ -37,7 +37,7 @@ Cloud       AWS (Lambda · DynamoDB · SQS · Bedrock) · Docker · GitHub Actio
 
 ### Links
 
-- [LinkedIn](https://linkedin.com/in/)
+- [LinkedIn](https://www.linkedin.com/in/ray-z-1b19702aa/?locale=en/)
 
 ---
 
