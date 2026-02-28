@@ -1,4 +1,4 @@
-# Ray Zhao — ML Engineer & NLP Researcher
+# Ray Zhao — Backend/ML Engineer & NLP Researcher
 
 Building at the intersection of multilingual AI and production systems.
 
