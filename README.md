@@ -6,8 +6,7 @@ Building at the intersection of multilingual AI and production systems.
 
 ### Research
 
-**CultuR-AI-ze** — Multimodal LLM framework for cross-cultural meme transcreation
-- First-author paper submitted to **ACL 2025**
+**MemeXGen** — Multimodal LLM framework for cross-cultural meme transcreation
 - Dataset published on Hugging Face — **20,000+ downloads in the first month**
 - Multimodal multi-agent system (cultural context · style · safety) with 15–20% improvement over GPT-4V and CLIP baselines across Chinese–English evaluation sets
 
@@ -35,9 +34,9 @@ Cloud       AWS (Lambda · DynamoDB · SQS · Bedrock) · Docker · GitHub Actio
 
 ### Links
 
-- [arXiv paper](https://arxiv.org/) — add your link
-- [Hugging Face dataset](https://huggingface.co/) — add your link
-- [LinkedIn](https://linkedin.com/in/) — add your link
+- [arXiv paper](https://arxiv.org/)
+- [Hugging Face dataset](https://huggingface.co/)
+- [LinkedIn](https://linkedin.com/in/)
 
 ---
 
