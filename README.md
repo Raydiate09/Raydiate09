@@ -35,7 +35,7 @@ Cloud       AWS (Lambda · DynamoDB · SQS · Bedrock) · Docker · GitHub Actio
 ### Links
 
 - [arXiv paper](https://arxiv.org/)
-- [Hugging Face dataset](https://huggingface.co/)
+- [Hugging Face dataset]([https://huggingface.co/](https://huggingface.co/datasets/AIM-SCU/MemeXGen))
 - [LinkedIn](https://linkedin.com/in/)
 
 ---
