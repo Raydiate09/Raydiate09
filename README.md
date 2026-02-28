@@ -10,7 +10,7 @@ Building at the intersection of multilingual AI and production systems.
 - Dataset published on Hugging Face — **20,000+ downloads in the first month**
 - Multimodal multi-agent system (cultural context · style · safety) with 15–20% improvement over GPT-4V and CLIP baselines across Chinese–English evaluation sets
 - 
-- [arXiv paper](https://arxiv.org/)
+- [arXiv paper](https://arxiv.org/abs/2602.02510/)
 - [Hugging Face dataset](https://huggingface.co/datasets/AIM-SCU/MemeXGen/)
 
 ---
